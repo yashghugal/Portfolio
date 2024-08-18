@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <div className='flex justify-between py-5 md:px-8 md:py-2 items-center bg-transparent'>
       <div className='logo poppins text-white'>
-        <img className='w-24 lg:w-44 ' src={Logo} alt="" />
+        <img className='w-24 lg:w-32 ' src={Logo} alt="" />
       </div>
       <a href="https://www.linkedin.com/in/yash-ghugal-0a2011191/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><button
         className="overflow-hidden relative w-24 md:w-28 p-2 h-10 md:h-11 bg-white text-black border-none rounded-md text-normal md:text-xl font-medium cursor-pointer z-10 group"
