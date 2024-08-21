@@ -72,7 +72,7 @@ export const EDUCATION = [
     stream:"MCA"
   },
   {
-    year: "Aug 2019 - Apr 2022",
+    year: "Jul 2019 - May 2022",
     school:"Dr.Ambedkar College,Nagpur",
     stream:"BCA"
   },
